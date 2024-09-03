@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Sempre aprendendo ...<br>📚 Atualmente estou aprimorando meus conhecimentos em Java e Spring Boot ...<br>🎯 Meu maior obejtivo é me tornar um desenvolvedor FullStack Java...</p>
+<p align="left">✨ Sempre aprendendo ...<br>📚 Atualmente estou aprimorando meus conhecimentos em Java e Spring Boot ...<br>🎯 Meu maior objetivo é me tornar um desenvolvedor FullStack Java...</p>
 
 ###
 
